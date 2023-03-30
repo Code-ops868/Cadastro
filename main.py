@@ -1,6 +1,5 @@
 from streamlit_option_menu import Option_Menu
 import streamlit as st
-
 import sqlite3 as lite
 import pandas as pd
 from st_aggrid import AgGrid
